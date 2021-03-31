@@ -1,3 +1,3 @@
 # Expery
 
-Some description.
+Some description!
